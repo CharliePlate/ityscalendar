@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/ityscalendar/static/js/main.c2591f66.js",
+    "main.js": "/ityscalendar/static/js/main.d7d29344.js",
     "index.html": "/ityscalendar/index.html",
-    "main.c2591f66.js.map": "/ityscalendar/static/js/main.c2591f66.js.map"
+    "main.d7d29344.js.map": "/ityscalendar/static/js/main.d7d29344.js.map"
   },
   "entrypoints": [
-    "static/js/main.c2591f66.js"
+    "static/js/main.d7d29344.js"
   ]
 }
